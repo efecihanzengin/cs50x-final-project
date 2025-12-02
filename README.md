@@ -1,5 +1,5 @@
 # Pomodoro CLI Timer
-
+#### Video Demo: <https://youtu.be/bDMGuQ20dWo>
 A command-line interface (CLI) tool designed for developers who want to maintain focus and productivity directly from their terminal. It combines the Pomodoro Technique with visual progress bars, native desktop notifications, audio alerts, and automated session logging.
 
 ---
