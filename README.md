@@ -54,7 +54,7 @@ npm install
 
 3. **Setup Audio Files**
 
-Ensure that `mola_vakti.wav` and `is_vakti.wav` are present in the root directory. You can replace these with any `.wav` or `.mp3` files of your choice.
+Ensure that `gong.mp3` and `harp.mp3` are present in the root directory. You can replace these with any `.wav` or `.mp3` files of your choice.
 
 ---
 
