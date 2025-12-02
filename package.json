@@ -1,0 +1,25 @@
+{
+  "name": "cs50x-final-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efecihanzengin/cs50x-final-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/efecihanzengin/cs50x-final-project/issues"
+  },
+  "homepage": "https://github.com/efecihanzengin/cs50x-final-project#readme",
+  "dependencies": {
+    "node-notifier": "^10.0.1",
+    "play-sound": "^1.1.6"
+  }
+}
